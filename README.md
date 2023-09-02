@@ -1,4 +1,4 @@
-![GitHub Views](https://komarev.com/ghpvc/?username=Dhruv1573&color=FAC151)
+![GitHub Views](https://komarev.com/ghpvc/?username=Dhruv1573&color=blue)
 
 - 👋 Hi, I’m @Dhruv
 - 👀 I’m interested in Full Stack Developer
